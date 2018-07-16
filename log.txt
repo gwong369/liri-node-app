@@ -1,0 +1,97 @@
+﻿undefined
+Tweet: Mon Jul 16 01:46:37 +0000 2018
+Tweet Text: to go!
+-------
+undefined
+Tweet: Mon Jul 16 01:46:33 +0000 2018
+Tweet Text: tweets
+-------
+undefined
+Tweet: Mon Jul 16 01:46:27 +0000 2018
+Tweet Text: four
+-------
+undefined
+Tweet: Mon Jul 16 01:46:20 +0000 2018
+Tweet Text: Pop pop!
+-------
+undefined
+Tweet: Mon Jul 16 01:46:31 +0000 2018
+Tweet Text: more
+-------
+undefined
+Tweet: Mon Jul 16 01:46:06 +0000 2018
+Tweet Text: I love snowboarding
+-------
+undefined
+Tweet: Mon Jul 16 01:45:06 +0000 2018
+Tweet Text: What would you tweet for a Klondike bar?
+-------
+undefined
+Tweet: Mon Jul 16 01:44:46 +0000 2018
+Tweet Text: I got my tweets to show up on LIRI!
+-------
+undefined
+Tweet: Mon Jul 16 01:12:34 +0000 2018
+Tweet Text: Pointless
+-------
+undefined
+Tweet: Mon Jul 16 01:12:30 +0000 2018
+Tweet Text: Absolutely
+-------
+undefined
+Tweet: Mon Jul 16 01:12:23 +0000 2018
+Tweet Text: Is
+-------
+undefined
+Tweet: Mon Jul 16 01:12:20 +0000 2018
+Tweet Text: Twitter
+-------
+undefined
+Tweet: Mon Jul 16 01:12:09 +0000 2018
+Tweet Text: Hello world!
+-------
+undefined
+Tweet: Mon Jul 16 01:11:59 +0000 2018
+Tweet Text: No one will ever see this tweet :(
+-------
+undefined
+Tweet: Mon Jul 16 01:11:49 +0000 2018
+Tweet Text: What do people even use Twitter for?
+-------
+undefined
+Tweet: Mon Jul 16 01:10:17 +0000 2018
+Tweet Text: Troy and Abed in the mooorning!
+-------
+undefined
+Tweet: Mon Jul 16 01:10:04 +0000 2018
+Tweet Text: Community is one of the best shows in the history of TV
+-------
+undefined
+Tweet: Mon Jul 16 01:09:37 +0000 2018
+Tweet Text: Is LIRI the next SIRI?
+-------
+undefined
+Tweet: Mon Jul 16 01:09:24 +0000 2018
+Tweet Text: coding makes me happy!
+-------
+undefined
+Tweet: Mon Jul 16 01:09:15 +0000 2018
+Tweet Text: i love coding
+-------
+Title: Star Wars: Episode IV - A New Hope
+Year: 1977
+Imdb Rating: 8.6
+Rotten Tomatoes Rating: N/A
+Country: USA
+Language: English
+Plot: Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle-station, while also attempting to rescue Princess Leia from the evil Darth Vader.
+Actors: Mark Hamill, Harrison Ford, Carrie Fisher, Peter Cushing
+[object Object]Artist: Arctic Monkeys
+Song name: A Certain Romance
+Preview Link: https://p.scdn.co/mp3-preview/86b717f29a75399918886faa8c896bacd5e6d3fb?cid=5fa32cb529c74e9bb595642608c9a78a
+Album Name: Whatever People Say I Am, That's What I'm Not
+[object Object]Artist: Backstreet Boys
+Song name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=5fa32cb529c74e9bb595642608c9a78a
+Album Name: The Hits--Chapter One
+[object Object]
