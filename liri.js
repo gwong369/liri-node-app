@@ -71,8 +71,11 @@ function getSong(songName) {
             return console.log('Error occurred: ' + err);
         } else {
 
-            var logSong = "\nArtist: " + data.tracks.items[0].artists[0].name + "\nSong name: " + data.tracks.items[0].name + "\nPreview Link: " + data.tracks.items[0].preview_url +
-                "\nAlbum Name: " + data.tracks.items[0].album.name + "\n";
+            var logSong = 
+                "Artist: " + data.tracks.items[0].artists[0].name + "\r\n" +
+                "Song name: " + data.tracks.items[0].name + "\r\n" +
+                "Preview Link: " + data.tracks.items[0].preview_url + "\r\n" +
+                "Album Name: " + data.tracks.items[0].album.name + "\r\n";
 
             console.log(logSong);
 
