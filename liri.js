@@ -30,7 +30,7 @@ function commands(liriCommand, input) {
             break;
 
         default:
-            console.log("No valid argument has been provided, please enter one of the following commands: 'my-tweets', 'spotify-this-song', 'movie-this', 'do-what-it-says' followed by parameter.");
+            console.log("Please enter one of the following commands: 'my-tweets', 'spotify-this-song', 'movie-this', 'do-what-it-says' followed by parameter.");
     }
 }
 
@@ -69,19 +69,17 @@ function getSong(songName) {
     spotify.search({ type: 'track', query: songName }, function (err, data) {
         if (err) {
             return console.log('Error occurred: ' + err);
-        }
-        console.log("Artist: " + data.tracks.items[0].artists[0].name + "\nSong name: " + data.tracks.items[0].name + "\nPreview Link: " + data.tracks.items[0].preview_url) +
-            "\nAlbum Name: " + data.tracks.items[0].album.name;
+        } else {
 
-        //Save to log.txt
-        var logSong = "Artist: " + data.tracks.items[0].artists[0].name + "\nSong name: " + data.tracks.items[0].name + "\nPreview Link: " + data.tracks.items[0].preview_url +
-            "\nAlbum Name: " + data.tracks.items[0].album.name + "\n";
+            var logSong = "\nArtist: " + data.tracks.items[0].artists[0].name + "\nSong name: " + data.tracks.items[0].name + "\nPreview Link: " + data.tracks.items[0].preview_url +
+                "\nAlbum Name: " + data.tracks.items[0].album.name + "\n";
 
-        fs.appendFile('log.txt', logSong, function (err) {
-            if (err) throw err;
-        });
+            console.log(logSong);
 
-        logResults(data);
+            fs.appendFile('log.txt', logSong, function (err) {
+                if (err) throw err;
+            });
+        };
     });
 };
 
@@ -108,8 +106,8 @@ function getMovie(movieName) {
                 "Language: " + movieObject.Language + "\r\n" +
                 "Plot: " + movieObject.Plot + "\r\n" +
                 "Actors: " + movieObject.Actors + "\r\n";
-            
-                console.log(movieResults);
+
+            console.log(movieResults);
 
             fs.appendFile('log.txt', movieResults, function (err) {
                 if (err) throw err;
